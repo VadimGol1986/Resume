@@ -80,7 +80,9 @@
 }
 
 .skils {
-  min-width: 300px;
+  min-width: 250px;
+  border-right: 1px dashed;
+  margin-right: 50px;
 }
 
 .examples__container {
